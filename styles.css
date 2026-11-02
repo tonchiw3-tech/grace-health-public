@@ -12,3 +12,4 @@
 
 .site-footer{max-width:1100px;margin:0 auto;padding:0 24px 28px;color:var(--muted);text-align:center;font-size:.75rem;line-height:1.7}.site-footer p{margin:0}
 @media(max-width:720px){.site-footer{padding:0 15px 22px;font-size:.72rem;line-height:1.8}}
+@media(max-width:720px){.records-panel .panel-heading{display:block}.records-panel .record-tools{flex-wrap:wrap;margin-top:10px}}
